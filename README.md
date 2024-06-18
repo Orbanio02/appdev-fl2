@@ -1,2 +1,1 @@
-# appdev-fl2
-Tailwind
+# AppDev-FL2
